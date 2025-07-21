@@ -1,0 +1,1 @@
+/Users/javiervalladares/Library/Mobile\ Documents/com~apple~CloudDocs/Sexto\ semestre/Graficos/Lab2/lab2/target/release/gol_rt: /Users/javiervalladares/Library/Mobile\ Documents/com~apple~CloudDocs/Sexto\ semestre/Graficos/Lab2/lab2/src/main.rs
